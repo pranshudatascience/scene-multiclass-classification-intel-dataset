@@ -15,6 +15,10 @@ The Train, Test and Prediction data is separated in each zip files. There are ar
 This data was initially published on https://datahack.analyticsvidhya.com by Intel to host a Image classification Challenge.
 
  some of the images out of 25k image dataset:
+ 
+ 
+ 
+ 
 ![image](https://user-images.githubusercontent.com/31736193/126117228-e1d81360-13dd-4463-bbaa-cb4894dd5030.png)
 
 ![image](https://user-images.githubusercontent.com/31736193/126117257-2e779360-45a7-4e91-bd9d-9fb280e039d7.png)
